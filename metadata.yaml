@@ -1,0 +1,33 @@
+_repo: De-Wonderen-van-den-Antichrist_36194
+_version: 0.1.0
+alternative_title: Antikrists mirakler. Dutch
+covers:
+- cover_type: archival
+  image_path: 36194-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lagerlöf, Selma
+    aliases:
+    - Lagerlof, Selma
+    - Lagerloef, Selma
+    - Lagerlöf, Selma Ottiliana Lovisa
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '1717'
+    url: http://www.gutenberg.org/2009/agents/1717
+    wikipedia: http://en.wikipedia.org/wiki/Selma_Lagerlöf
+description: ''
+gutenberg_issued: '2011-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36194'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Socialism -- Fiction'
+- !lcsh 'Sicily (Italy) -- Fiction'
+- !lcc 'PT'
+title: De Wonderen van den Antichrist
+url: http://www.gutenberg.org/ebooks/36194
